@@ -1,5 +1,5 @@
 var na = prompt("plz enter you name");
-var tips = prompt("hello " + na + "welcome to the page " + "plz enter the weather conditon and we will give you a tips");
+var tips = prompt("hello " + na + " welcome to the page " + " plz enter the weather conditon and we will give you a tips");
 
 
 
